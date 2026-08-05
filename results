@@ -21,3 +21,6 @@ Summary:
 The MobileNetV2 model achieved a very good performance on the Animals-10 dataset with a final test accuracy of 93.65% and a test loss of 0.2210.
 Even though one of the untrained test images was classified with a failure with a low confidence score. it demonstrates that the model expresses some questions 
 when images are harder to classify.
+
+
+
